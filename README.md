@@ -1,3 +1,4 @@
+𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭:
 * Refrigeration consumes significant energy, contributing to high electricity costs and
 environmental impact.
 * Regions with unreliable power grids face difficulties preserving perishable food.
